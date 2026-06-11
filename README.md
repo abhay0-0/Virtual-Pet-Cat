@@ -2,11 +2,11 @@
 A animated desktop cat that walks, sleeps, and lives on your Windows screen. Built with Python, Tkinter, and the Windows API.
 
 Features:
-1. Walks, sits, scratches, yawns, sleeps — click it to wake it up
+1. Walks, sits, scratches, yawns, sleeps, click it to wake it up
 2. Lands on open windows and the taskbar using Windows API
 3. Falls with gravity when you drop it
 4. Reacts when you plug/unplug your charger with a speech bubble
-5. Right-click to set custom timers — cat reminds you when time is up
+5. Right-click to set custom timers, cat reminds you when time is up
 6. Speech bubble follows the cat even while dragging
    
 ## Requirements
