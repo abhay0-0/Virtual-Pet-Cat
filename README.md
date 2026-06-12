@@ -1,5 +1,5 @@
 # Virtual-Pet-Cat
-A animated desktop cat that walks, sleeps, and lives on your Windows screen. Built with Python, Tkinter, and the Windows API.
+An animated desktop cat that walks, sleeps, and lives on your Windows screen. Built with Python, Tkinter, and the Windows API.
 
 Features:
 1. Walks, sits, scratches, yawns, sleeps, click it to wake it up
